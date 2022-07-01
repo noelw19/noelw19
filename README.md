@@ -4,10 +4,10 @@
   **Favourite Quote**: Failure is the condiment that gives success its flavour.    
   **Favourite Book**: Rich Dad, Poor Dad.  
   
-  **CodeWars Stats**
-[My Codewars Stats](https://www.codewars.com/users/noelw19/badges/large)]()
+  #### CodeWars Stats: 
+[![My Codewars Stats](https://www.codewars.com/users/noelw19/badges/large)]()
   
-  **Github Stats**
+  #### Github Stats
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=noelw19&count_private=true&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=noelw19&langs_count=5&theme=tokyonight)]()
