@@ -5,7 +5,7 @@
   **Favourite Book**: Rich Dad, Poor Dad.  
   
   **CodeWars Stats**
-  [![My Codewars Stats](https://www.codewars.com/users/noelw19/badges/large)]()
+[My Codewars Stats](https://www.codewars.com/users/noelw19/badges/large)]()
   
   **Github Stats**
 
