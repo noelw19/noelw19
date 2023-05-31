@@ -8,7 +8,7 @@
 [![My Codewars Stats](https://www.codewars.com/users/noelw19/badges/large)]()
   
   ### Try Hack Me Stats:
-[![Try Hack Me]()]()
+[![Try Hack Me](https://tryhackme-badges.s3.amazonaws.com/noelw19.png)]()
 
   #### Github Stats
 
