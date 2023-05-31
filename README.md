@@ -9,7 +9,7 @@
   
   ### Try Hack Me Stats: 
   
-[![Try Hack Me](https://tryhackme-badges.s3.amazonaws.com/noelw19.png)]()
+[![Try Hack Me](https://tryhackme.com/badge/1960209)]()
   #### Github Stats
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=noelw19&count_private=true&theme=tokyonight&showicons=true)]()
