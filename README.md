@@ -1,8 +1,13 @@
 ### Kia Ora 👋
+
+  **Bio: A 90's kid that enjoyed computers as a kid but didnt realise this was his passion until after he was 18, enjoy problem solving and listening to lofi while I do it, also enjoy Muay Thai in my spare time to help keep my mind and body healthy. Ethical hacking is my current obsession.
+  
+  **Co-op: To aid my learning in the ethical hacking space am open to cooperatively do some bug bounties.
+
+  **Interests: Ethical Hacking, Bug Bounties, Javascript, Python, Bash, Linux, Muay thai, Arduino, Burp Suite, Reconnaisance.
   
   **Portfolio**: https://www.noel-williams.com  
   **Favourite Quote**: Failure is the condiment that gives success its flavour.    
-  **Favourite Book**: Rich Dad, Poor Dad.  
   
   #### CodeWars Stats: 
 [![My Codewars Stats](https://www.codewars.com/users/noelw19/badges/large)]()
