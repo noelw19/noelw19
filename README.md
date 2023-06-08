@@ -1,6 +1,8 @@
 ### Kia Ora 👋
 
-  **Bio**: A 90's kid that enjoyed computers as a kid but didnt realise this was his passion until after he was 18, enjoy problem solving and listening to lofi while I do it, also enjoy Muay Thai in my spare time to help keep my mind and body healthy. Ethical hacking is my current obsession.
+  **Bio**: A 90's kid that enjoyed computers as a kid but didnt realise this was his passion until after he was 18, enjoy problem solving and listening to lofi while I do it, also enjoy Muay Thai in my spare time to help keep my mind and body healthy. 
+  
+  **Current Obsession**: Ethical hacking and CTF's.
   
   **Co-op**: To aid my learning in the ethical hacking space am open to cooperatively do some bug bounties.
 
