@@ -8,18 +8,18 @@
 
   **Interests**: Ethical Hacking, Javascript, Python, Bash, Linux, Muay thai.
 
-  **Check out my most recent project**: A Loved One.
-  **When I began this project**: June 2022.
-  **Notes on project**: 
-   Site is up and running
-   MERN Stack
-   Front-End and Back-End Authentication and Authorization
-   Front-End and Back-End input sanitization
-   Front-End and Back-End dynamic and protected routes
-   JWT Tokens
-   Github Actions
+  **Check out my most recent project**: A Loved One.\
+  **When I began this project**: June 2022.\
+  **Notes on project**: \
+   -Site is up and running\
+   -MERN Stack\
+   -Front-End and Back-End Authentication and Authorization\
+   -Front-End and Back-End input sanitization\
+   -Front-End and Back-End dynamic and protected routes\
+   -JWT Tokens\
+   -Github Actions\
 
-   **Project URL**: a-lo.netlify.app
+   **Project URL**: a-lo.netlify.app\
   
   **Portfolio**: https://www.noel-williams.com  
   **Favourite Quote**: Failure is the condiment that gives success its flavour.    
