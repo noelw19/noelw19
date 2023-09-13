@@ -8,8 +8,8 @@
 
   **Interests**: Ethical Hacking, Javascript, Python, Bash, Linux, Muay thai.
 
-  **Check out my most recent project**: A Loved One
-  **When I began this project**: June 2022
+  **Check out my most recent project**: A Loved One.
+  **When I began this project**: June 2022.
   **Notes on project**: 
    Site is up and running
    MERN Stack
