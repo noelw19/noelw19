@@ -8,9 +8,9 @@
 
   **Interests**: Ethical Hacking, Javascript, Python, Bash, Linux, Muay thai.
 
-   **Project URL**: a-lo.netlify.app\
+   **Project URL**: alo.meliorus.co.nz\
   
-  **Portfolio**: https://www.noel-williams.com  
+  **Portfolio**: https://meliorus.co.nz  
   **Favourite Quote**: Failure is the condiment that gives success its flavour.    
   
   #### CodeWars Stats: 
