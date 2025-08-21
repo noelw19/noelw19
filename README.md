@@ -1,12 +1,10 @@
 ### Kia Ora 👋
 
-  **Bio**: A 90's kid that enjoyed computers as a kid but didnt realise this was his passion until after he was 18, enjoy problem solving and listening to lofi while I do it, also enjoy Muay Thai in my spare time to help keep my mind and body healthy. 
+  **Bio**: I like the code
   
-  **Current Obsession**: Ethical hacking and CTF's.
-  
-  **Co-op**: To aid my learning in the ethical hacking space am open to cooperatively do some bug bounties.
+  **Current Obsession**: Arduino/React Native.
 
-  **Interests**: Ethical Hacking, Javascript, Python, Bash, Linux, Muay thai.
+  **Interests**: Ethical Hacking, Javascript, Python, Bash, Linux, Muay thai, Golang, Battlefield V.
 
    **Project URL**: alo.meliorus.co.nz\
   
